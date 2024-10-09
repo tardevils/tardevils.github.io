@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: output
+  
+website:
+  title: "Tar Devils Sociology Symposium"
+  open-graph: true
+  navbar:
+    left:
+      - icon: house
+        text: Home
+        href: index.qmd
+      - icon: search
+        text: Logistics
+        href: logistics.qmd
+      - icon: pen
+        text: Submission
+        href: form.qmd
+format:
+  html:
+    theme: [main.css]
+    fig-align: center
+    css: styles.css
+    page-layout: full
+    article-layout: full
+    figure-layout: full
+
+editor: visual

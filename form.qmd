@@ -1,0 +1,9 @@
+---
+title: ""
+---
+
+<script>
+  window.location.href = "https://forms.gle/34WtCYnmoiyuaCpXA";
+</script>
+
+If you are not redirected, [click here to go to the survey](https://forms.gle/34WtCYnmoiyuaCpXA).

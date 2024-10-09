@@ -1,0 +1,18 @@
+---
+title: ""
+---
+
+<style>
+  body {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  figcaption {
+  margin: auto;
+  text-align: center;
+}
+</style>
+
+<meta name="robots" content="noindex">
+
+<p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3227.6336791947388!2d-78.91799192444482!3d36.004816312131176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ace408ef7bdae9%3A0x6cbf22bafb5c30fe!2sWest%20Duke%20Building!5e0!3m2!1sen!2sus!4v1728443842078!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
