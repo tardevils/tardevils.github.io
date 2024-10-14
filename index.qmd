@@ -3,7 +3,7 @@ title: ""
 ---
 
 ::: column-page
-![](docs/logo.png){.lightbox}
+![](assets/logo.png){.lightbox}
 :::
 
 ::: column-page
@@ -17,5 +17,5 @@ The first-ever Tar Devils Sociology Symposium will be held February 1, 2025, at 
 :::
 
 ::: column-screen
-![](docs/back.png){.lightbox}
+![](assets/back.png){.lightbox}
 :::
