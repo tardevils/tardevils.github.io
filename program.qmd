@@ -1,0 +1,73 @@
+---
+title: ""
+---
+
+```{=html}
+<style>
+  body {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  figcaption {
+  margin: auto;
+  text-align: center;
+}
+</style>
+```
+
+**8:00-9:00 Registration and Coffee** (Room 107F)
+
+**9:00-10:30 Panel: Family and Demography** (Room 101)
+
+*Discussants: René Iwo & Shuyi Qiu*
+
+- Ariayana N. Harrell, Dr. Katie M. O’Brien, Dr. Dale P. Sandler, and Dr. Mandy Goldberg. “Pubertal timing and incident uterine cancer in the Sister Study cohort”
+- Kaitlin Joshua. “Making Mothers Online: Embodying, Resisting, Negotiating Medicalization”
+- Garrett Baker. “Proactive, Punitive, or Protective? Family Dynamics and Parental Response to System Contact, Delinquency, and Substance Use“
+- Shuo (Lisa) Meng. “Family Background, Parental Involvement, and Child's Academic Achievement”
+
+**10:45-12:00 Working Tables** (Rooms 101 & 107F)
+
+**Table 1: Gender and Politics**
+
+*Discussant: Andrew Joyce*
+
+- Ben Rochford, Cathy Lee, Michelle Qiu, Alexander Volfovsky, D. Sunshine Hillygus, Christopher Bail. “Bot or Not? Social Identity Biases in Perceptions of Online Account Credibility”
+- Jarvis Benson. “Sexual Citizens? Extending the Generalized Group Dominance Perspective”
+- Christopher Brehm. “The “Patriarchy of the Wage” and Intimate Partner Violence: Evidence from Brazil”
+
+**Table 2: Health and Stratification**
+
+*Discussant: Hantao Jiang*
+
+- Fatima Fiarfax. “Personal Health Technology and Shared Decision Making in Healthcare”
+- Johanna Palomo. “Dissonant Tones: The Relationship Between (In)congruent Congregational and Personal Views on Abortion and Health and Well-being”
+- Erin LC Wright. “Stigmatization and Minoritized Identities Following Exposure to Violence: An Intersectional Evaluation of Friendship Loss in Adolescence”
+
+**Table 3: Behavior and Motivation**
+
+*Discussant: Yue Zhang*
+
+- Inés Martinez Echagüe. “Feminist Breaking Points: Intersectional Pathways to Mobilization in Latin America”
+- Daniel Reich. “The Role of Moral Identity in Predicting Prosocial Behavior in Economic Games”
+
+**12:00-1:00 Lunch**
+
+**1:00-2:30 Panel: Race and Migration** (Room 101)
+
+*Discussants: Pablo Bello & Athena Owirodu*
+
+- Risa Murase. “The Social Construction of Immigrants: Local News Coverage, Immigration Policy, and National Discussion 1990-2020”
+- Braulio Güémez. “Who counts as Indigenous? The Politics of the Production and Use of Official Ethnic Statistics in Mexico, 2000-2024”
+- Meredith Riley. “The effect of at-home genetic testing messaging on support for progressive policies addressing racial disparities in health, education, and employment: a survey experiment”
+- Katharina Klaunig. “Current Versus Past Migration: Which Matters More for Migration in Nepal?”
+
+**2:45-4:15 Panel: Social Movements and Law** (Room 101)
+
+*Discussant: Madelynn Wellons*
+
+- AP Pittman. “Anti-Trans Legislation and Mental Health: Spillover Effects”
+- Braxton Brewington. “Battling, Building, Bracketing and Bridging: How Leftist, Southern Social Movements Interact With Media”
+- Andrés Castro Araújo. “Innovation in Constitutional Decision-Making”
+
+**4:30 Happy hour (James Joyce Irish Pub)**

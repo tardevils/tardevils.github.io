@@ -14,8 +14,8 @@ website:
         text: Logistics
         href: logistics.qmd
       - icon: pen
-        text: Submission
-        href: form.qmd
+        text: Program
+        href: program.qmd
 format:
   html:
     theme: [main.css]
