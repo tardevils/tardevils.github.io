@@ -1,0 +1,24 @@
+---
+title: ""
+aliases:
+  - registration
+---
+
+```{=html}
+<style>
+  body {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  figcaption {
+  margin: auto;
+  text-align: center;
+}
+</style>
+```
+
+<script>
+  window.location.href = "https://forms.gle/fnF8ed7WHwmtEiX5A";
+</script>
+
+If you are not redirected, [click here to go to the registration form](https://forms.gle/fnF8ed7WHwmtEiX5A).

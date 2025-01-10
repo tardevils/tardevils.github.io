@@ -16,6 +16,10 @@ website:
       - icon: pen
         text: Program
         href: program.qmd
+      - icon: book
+        text: Registration
+        href: registration.qmd
+        
 format:
   html:
     theme: [main.css]
