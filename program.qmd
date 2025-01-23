@@ -21,7 +21,7 @@ title: ""
 
 **9:00-10:30 Panel: Family and Demography** (Room 101)
 
-*Discussants: René Iwo & Shuyi Qiu*
+*Discussant: Shuyi Qiu*
 
 -   Ariayana N. Harrell, Dr. Katie M. O’Brien, Dr. Dale P. Sandler, and Dr. Mandy Goldberg. “Pubertal timing and incident uterine cancer in the Sister Study cohort”
 -   Kaitlin Joshua. “Making Mothers Online: Embodying, Resisting, Negotiating Medicalization”
@@ -57,7 +57,7 @@ title: ""
 
 **1:00-2:30 Panel: Race and Migration** (Room 101)
 
-*Discussants: Athena Owirodu*
+*Discussant: Athena Owirodu*
 
 -   Risa Murase. “The Social Construction of Immigrants: Local News Coverage, Immigration Policy, and National Discussion 1990-2020”
 -   Braulio Güémez. “Who counts as Indigenous? The Politics of the Production and Use of Official Ethnic Statistics in Mexico, 2000-2024”
@@ -68,7 +68,6 @@ title: ""
 
 *Discussant: Madelynn Wellons*
 
--   AP Pittman. “Anti-Trans Legislation and Mental Health: Spillover Effects”
 -   Braxton Brewington. “Battling, Building, Bracketing and Bridging: How Leftist, Southern Social Movements Interact With Media”
 -   Andrés Castro Araújo. “Innovation in Constitutional Decision-Making”
 
