@@ -17,8 +17,10 @@ aliases:
 </style>
 ```
 
+```{=html}
 <script>
-  window.location.href = "https://forms.gle/fnF8ed7WHwmtEiX5A";
+  window.location.href = "https://forms.gle/CokFx4eHg1pg45Rn7";
 </script>
+```
 
-If you are not redirected, [click here to go to the registration form](https://forms.gle/fnF8ed7WHwmtEiX5A).
+If you are not redirected, [click here to go to the registration form](https://forms.gle/CokFx4eHg1pg45Rn7).
