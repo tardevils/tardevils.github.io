@@ -17,41 +17,13 @@ title: ""
 
 ::::: columns
 ::: {.column width="50%"}
-The conference will take place at Duke University.
+The symposium will take place at UNC Chapel Hill.
 
-We reserved West Duke Building located at East Campus (see the map on the right), with rooms 101 and 107F are reserved for the sessions.
-
-The bus line [400 Durham-Chapel Hill](https://gotriangle.org/maps-schedules/gotriangle/400) can be used for public transport.
-
-After the conference, we'll go to [James Joyce Irish Pub](https://www.instagram.com/jamesjoyceirishpub/) for happy hour!
-
-**Parking Information**
-
-::: {.callout-caution collapse="true"}
-## Parking information for participants from the UNC, or Duke without a parking permit (Expand for Information)
-
-The Center for Documentary Studies has street parking on Pettigrew St. and a gravel lot behind the center. There is an outside stairwell on the right side of the street, which will take you directly to the East Campus and is about a ten-minute walk to the building where we are located. There is also parking at Whole Foods/Mad Hatter, and some folks park at the church.
-
-Address Information:
-
-- Center for Documentary Studies: 1317 W Pettigrew St, Durham, NC 27705
-- Mad Hatter: 1802 W Main St, Durham, NC 27705
-- Asbury United Methodist Church: 806 Clarendon St, Durham, NC 27705
-:::
-
-::: {.callout-caution collapse="true"}
-## Parking information for participants from Duke (Expand for Information)
-
-If you have a parking pass, you can park in any East Campus lot on the weekend. You can also park in the Allen lot and take the East-West bus campus over, but it is a game day, so you may deal with traffic at the end of the day. There is parking along Campus Dr., and then a lot directly in front of the West building.
-:::
-
+We'll update this page soon before the symposium.
 :::
 
 ::: {.column width="50%"}
 ```{=html}
-<meta name="robots" content="noindex">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3227.6336791947388!2d-78.91799192444482!3d36.004816312131176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ace408ef7bdae9%3A0x6cbf22bafb5c30fe!2sWest%20Duke%20Building!5e0!3m2!1sen!2sus!4v1728443842078!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</iframe>
 ```
 :::
 :::::
