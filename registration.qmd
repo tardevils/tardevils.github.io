@@ -19,8 +19,8 @@ aliases:
 
 ```{=html}
 <script>
-  window.location.href = "https://forms.gle/CokFx4eHg1pg45Rn7";
+  window.location.href = "https://forms.gle/N6gwqxHQ5wrYxsjq6";
 </script>
 ```
 
-If you are not redirected, [click here to go to the registration form](https://forms.gle/CokFx4eHg1pg45Rn7).
+If you are not redirected, [click here to go to the registration form](https://forms.gle/N6gwqxHQ5wrYxsjq6).
