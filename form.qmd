@@ -2,8 +2,10 @@
 title: ""
 ---
 
+```{=html}
 <script>
-  window.location.href = "https://forms.gle/34WtCYnmoiyuaCpXA";
+  window.location.href = "https://forms.gle/N6gwqxHQ5wrYxsjq6";
 </script>
+```
 
-If you are not redirected, [click here to go to the survey](https://forms.gle/34WtCYnmoiyuaCpXA).
+If you are not redirected, [click here to go to the form](https://forms.gle/N6gwqxHQ5wrYxsjq6).
