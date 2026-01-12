@@ -17,15 +17,14 @@ title: ""
 
 ::::: columns
 ::: {.column width="50%"}
-The symposium will take place at The Frank Porter Graham Student Union at UNC Chapel Hill.
+The symposium will take place at The Frank Porter Graham Student Union (Room 3206 AB) at UNC Chapel Hill.
 
 Here is a parking map:
 
-- The union is highlighted in yellow.
-- Free parking can be found in the NG3 lots. From there, you can walk directly to the union.
+-   The union is highlighted in yellow.
+-   Free parking can be found in the NG3 lots. From there, you can walk directly to the union.
 
 ![](parkingmap.png)
-
 :::
 
 ::: {.column width="50%"}
