@@ -17,8 +17,6 @@ title: ""
 
 ::::: columns
 ::: {.column width="50%"}
-**Important Note**: We are closely monitoring the weather for Saturday. As of now, the conference will continue as planned. Any changes will be communicated by confetence organizers no later than Friday at 5pm.
-
 The symposium will take place at The Frank Porter Graham Student Union (Room 3206 AB) at UNC Chapel Hill.
 
 Here is a parking map:
