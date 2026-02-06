@@ -22,7 +22,7 @@ The symposium will take place at The Frank Porter Graham Student Union (Room 320
 Here is a parking map:
 
 -   The union is highlighted in yellow.
--   Free parking can be found in the NG3 lots. From there, you can walk directly to the union.
+-   Reserved parking for our event can be found in the NG3 lots. From there, you can walk directly to the union.
 
 ![](parkingmap.png)
 :::
