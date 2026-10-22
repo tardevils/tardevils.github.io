@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.27">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-a793abf35fff80500576be35b6d8e155.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-8db225ccf069c08d903977c5213b4da8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-68c478305c6339c412d0d645b0d15b0d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-d8d252db8fa2c60fa64e79a605c976bf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -74,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="– Tar Devils Sociology Symposium">
-<meta property="og:image" content="assets/logo.png">
+<meta property="og:image" content="assets/logo2027.png">
 <meta property="og:site_name" content="Tar Devils Sociology Symposium">
 </head>
 
@@ -85,6 +86,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Tar Devils Sociology Symposium</span>
     </a>
@@ -134,12 +137,12 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="column-page">
-<p><a href="assets/logo.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="assets/logo.png" class="img-fluid" width="2408"></a></p>
+<p><a href="assets/logo2027.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="assets/logo2027.png" class="img-fluid" width="2408"></a></p>
 </div>
 <div class="column-page">
 <center>
 <p>Welcome to the <em>Tar Devils Sociology Symposium</em> webpage!</p>
-<p>The second Tar Devils Sociology Symposium will be held February 7, 2026, at UNC Chapel Hill. It will bring together the graduate student researchers at the University of North Carolina at Chapel Hill and Duke University.</p>
+<p>The third Tar Devils Sociology Symposium will be held January 20, 2027, at Duke University. It will bring together the graduate student researchers at the University of North Carolina at Chapel Hill and Duke University.</p>
 </center>
 </div>
 <div class="column-screen">
@@ -200,13 +203,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
