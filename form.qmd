@@ -4,8 +4,8 @@ title: ""
 
 ```{=html}
 <script>
-  window.location.href = "https://forms.gle/N6gwqxHQ5wrYxsjq6";
+  window.location.href = "https://forms.gle/LEQzeKq6cq9yNeAe8";
 </script>
 ```
 
-If you are not redirected, [click here to go to the form](https://forms.gle/N6gwqxHQ5wrYxsjq6).
+If you are not redirected, [click here to go to the form](https://forms.gle/LEQzeKq6cq9yNeAe8).

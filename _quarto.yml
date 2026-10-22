@@ -10,9 +10,9 @@ website:
       - icon: house
         text: Home
         href: index.qmd
-      - icon: search
-        text: Logistics
-        href: logistics.qmd
+#      - icon: search
+#        text: Logistics
+#        href: logistics.qmd
       - icon: pen
         text: Program
         href: program.qmd
