@@ -1,1 +1,13 @@
 /* css styles */
+/* Drop the empty band under the full-width graphic at the bottom of the home page */
+.quarto-container:has(.column-screen) {
+  grid-template-rows: [content-top] auto [content-bottom] 0px [page-bottom];
+}
+
+main:has(.column-screen) {
+  margin-bottom: 0;
+}
+
+.column-screen > p:last-child {
+  margin-bottom: 0;
+}
