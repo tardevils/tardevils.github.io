@@ -1,5 +1,6 @@
 ---
 title: ""
+pagetitle: "Submission"
 aliases:
   - registration
 ---
@@ -19,8 +20,8 @@ aliases:
 
 ```{=html}
 <script>
-  window.location.href = "https://forms.gle/N6gwqxHQ5wrYxsjq6";
+  window.location.href = "https://forms.gle/EyFgw1MBUvcuuQ1j6";
 </script>
 ```
 
-If you are not redirected, [click here to go to the registration form](https://forms.gle/N6gwqxHQ5wrYxsjq6).
+If you are not redirected, [click here to go to the submission form](https://forms.gle/EyFgw1MBUvcuuQ1j6).

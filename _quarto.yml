@@ -17,7 +17,7 @@ website:
         text: Program
         href: program.qmd
       - icon: book
-        text: Registration
+        text: Submission
         href: registration.qmd
         
 format:
